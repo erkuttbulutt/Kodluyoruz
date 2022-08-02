@@ -12,4 +12,6 @@
     - 4 is written to the right of 3 because it is less than 7 and 5 but greater than 1 and 3.
     - 2 is written to the left of 3 because it is less than 7, 5, 3 but greater than 1.
 
-    ![](tree.png)
+    <p align="center">
+    <img src="tree.png" width="350" title="hover text">
+    </p>
