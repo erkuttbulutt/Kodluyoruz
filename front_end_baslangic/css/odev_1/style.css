@@ -1,0 +1,42 @@
+* {
+  text-align: center;
+}
+h1 {
+  font-size: 32px;
+  color: red;
+}
+.firstList li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0px 10px;
+}
+h2 {
+  font-size: 28px;
+  color: purple;
+}
+section {
+  padding: 0px 100px;
+}
+.secondList {
+  list-style-position: inside;
+}
+.header {
+  font-size: 24px;
+  color: coral;
+  font-weight: bold;
+}
+img {
+  width: 400;
+  height: 400px;
+  object-fit: cover;
+}
+.aboutDiv p,
+h3 {
+  text-align: left;
+}
+.aboutDiv h3{
+  color: darkgoldenrod;
+}
+ol li {
+  list-style-position: inside;
+}
