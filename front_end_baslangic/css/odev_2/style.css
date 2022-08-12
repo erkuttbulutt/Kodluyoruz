@@ -1,0 +1,45 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.mid {
+  background: gainsboro;
+  margin-bottom: 4px;
+  padding-bottom: 4px;
+}
+
+.mid p {
+  margin: 0px;
+}
+
+.float {
+  float: left;
+  width: 33%;
+}
+
+li {
+  list-style-type: none;
+}
+
+.color-1 {
+  background: #7ee5da;
+  height: 110px;
+}
+
+.color-2 {
+  background: #70ccc2;
+  height: 110px;
+}
+
+.color-3 {
+  background: #62b3aa;
+}
+.footer-p {
+  margin-top: 15px;
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
